@@ -1,0 +1,23 @@
+@media (max-width: 1199.98px) { 
+	.well.client-wall{
+		height: 214px;
+	}
+	.well.client-wall .review-word{
+		font-size: 14px;
+	}
+	.well.client-wall h4{
+		font-size: 16px;
+	}
+}
+
+@media only screen and (max-width: 479px) {
+    .post-blog .month {
+        font-size: 14px;
+    }
+    .post-blog .date {
+        font-size: 14px;
+    }
+}
+div.clanky .row {
+    padding-top: 35px;
+}
